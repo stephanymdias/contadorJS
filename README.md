@@ -6,6 +6,6 @@ Contém as seguintes interações:
 - Botão "menos"
 - Botão "resetar"
 
-Visão: 
-https://github.com/stephanymdias/contadorJS/assets/130869859/b1db7264-401c-4a39-b5a6-dc01e080a430
+Visualização do site:
 
+![contador](https://github.com/stephanymdias/contadorJS/assets/130869859/2b590810-b992-4028-be0d-34ff71e66bd9)
